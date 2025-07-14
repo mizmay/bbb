@@ -27,6 +27,10 @@ Deep cuts to Medicaid and SNAP, rollbacks of clean energy incentives, and a mass
 
 The map will allow users to filter and select on house districts to compare and contrast voting records with relevant metrics that help us evaluate whether individual house districts are better or worse off in the wake of the OBBBA. Once developed, metrics based on reliable data that is easy to understand and associate with realignment of public policy this bill represents. Metrics will be updated periodically to show trends over time, and will incorporate data such as: medicaid recipients, economic investment including in clean energy and emerging clean tech industries, wealth distribution.
 
+If you would like to collaborate or get involved, reach out! Please read below to get a sense of the nuts and bolts, and message me through my profile with a proposal for how you might contribute.
+
+Content created under a [MIT license]( https://choosealicense.com/licenses/mit/); feel free to clone, download, remix and reuse all contents of this repo.
+
 ## Technical specification
 
 The map will be built based on a custom workflow using Typescript, React and MapLibre.
