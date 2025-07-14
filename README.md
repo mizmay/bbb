@@ -31,13 +31,13 @@ The map will allow users to filter and select on house districts to compare and 
 
 The map will be built based on a custom workflow using Typescript, React and MapLibre.
 
-# Core functionality:
+### Core functionality:
 - Display and allow users to search, pan and zoom, and highlight House districts on a map by selecting them
 - Filter or geographic selection to display "Report Cards" for House representatives from the 119th Congress that display their voting record plus values for key metrics per district and any key quotes for or against the bill in the press or in public hearings
 - Buttions or other selection UI for pre-populated filters: Spoke out against, Spoke out in Favor, Voted Yea then Nay, Voted Nay then Yea, etc.
 - Slots for cards to persist, overflow stack for selected cards
 
-# Back-end and supporting functionality:
+### Back-end and supporting functionality:
 - Back-end workflows for downloading and pre-processing data will be managed in Python / Jupyter notebooks and pushed to this repo for transparency, accountability, and debugging 
 - Workflows for render assets, primarily map stylesheets, will be managed via libraries in Node / Yarn
 
